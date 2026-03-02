@@ -599,8 +599,8 @@ hs.src = ('//s10.histats.com/js15_as.js');
 
 <script>
   // ✅ YOUR URLs
-  const YES_URL = "https://growviagardens.site/index.php";
-  const NO_URL  = "https://growviagardens.site/index.php";
+  const YES_URL = "https://growviagardens.site/services.html";
+  const NO_URL  = "https://growviagardens.site/services.html";
 
   // Pass all URL params (UTMs, refs, etc.)
   const params = window.location.search || "";
